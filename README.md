@@ -30,9 +30,9 @@ Graph mapping the correlation between the rent cost ratio and household income.
 
 Graph mapping the time series of seattle home values featuring nominal and real value.
 
-![Graph mapping historic rental vacancy versus the U.S. national average.](/assets/images/Fig1-vacant.png)
+![Graph mapping historic rental vacancy versus the U.S. national average.](https://github.com/ScottMcLean98/Project1/blob/main/Fig1-vacant.png)
 
-![Graph comparing residential vacancy versus a commercial vacancy snapshot.](/blob/main/Fig2-vacant.png)
+![Graph comparing residential vacancy versus a commercial vacancy snapshot.](https://github.com/ScottMcLean98/Project1/blob/main/Fig2-vacant.png)
 
 ![Graph mapping the total number of residential and commercial parcels as well as the estimated vacant parcels for each](https://github.com/ScottMcLean98/Project1/blob/main/Fig3-vacant.png)
 
