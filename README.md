@@ -104,8 +104,11 @@ Sheila Troxel
 ## Sources:
 ###### Real Estate sources:
 https://data.nasdaq.com/api/v3/datatables/ZILLOW/DATA
+
 https://data.nasdaq.com/api/v3/datasets/RATINF/USA_CPI
- Census Data - ACS 2021 5-year
+
+Census Data - ACS 2021 5-year
+
 Survey of Consumer Finances, 2019
 
 ###### Population Data sources:
