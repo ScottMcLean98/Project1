@@ -72,8 +72,11 @@ Historic commercial rental vacancy was not readily available and so we had to ma
 
 ## Contributors:
 Elizabeth Hansen
+
 Christopher Lynch
+
 Scott McLean
+
 Sheila Troxel
 
 ## Sources:
