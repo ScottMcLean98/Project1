@@ -97,3 +97,7 @@ https://www.apartmentlist.com/research/category/data-rent-estimates
 https://www.commercialedge.com/blog/national-office-report/
 https://geo.wa.gov/datasets/e8f2df3ed92843738f3dd778e92e93fc_0/explore?location=47.602128%2C-122.308183%2C13.93
 https://apps.leg.wa.gov/wac/default.aspx?cite=458-53-030
+
+###### Financial data sources:
+Washington State Women’s Commission (https://wswc.wa.gov) 
+https://financialmodelingprep.com/developer/docs/
