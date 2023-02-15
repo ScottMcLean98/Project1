@@ -45,11 +45,18 @@ Each parcel contains an associated land use code which was translated based on t
 
 ## Graphs
 ###### Housing Cost Graphs in Seattle, WA:
-Graph mapping the correlation between the housing cost ratio and household income.
-(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/HCR.png)
-Graph mapping the correlation between the rent cost ratio and household income.
 
-Graph mapping the time series of seattle home values featuring nominal and real value.
+Regression analysis between housing cost ratio and household income:
+
+![Graph mapping the correlation between the housing cost ratio and household income.](https://github.com/ScottMcLean98/Project1/blob/main/Graphs/HCR.png)
+
+Regression analysis between housing cost ratio and household income:
+
+![Graph mapping the correlation between the rent cost ratio and household income.](https://github.com/ScottMcLean98/Project1/blob/main/Graphs/HCR.png)
+
+Time setires analysis of nominal vs real housing prices in Seattle:
+
+![Graph mapping the time series of seattle home values featuring nominal and real value.](https://github.com/ScottMcLean98/Project1/blob/main/Graphs/HCR.png)
 
 ###### Graphs describing vacancy rates in Seattle, WA:
 
