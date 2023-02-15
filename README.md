@@ -76,23 +76,19 @@ Figure 3:
 
 Figure 1:
 
-![Graph mapping population for Seattle in 2020 vs 2022]
-(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20in%202020%20vs%202022.png)
+![Graph mapping population for Seattle in 2020 vs 2022](https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20in%202020%20vs%202022.png)
 
 Figure 2:
 
-![Graph mapping education levels for seattle population]
-(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Education%20Levels%20of%20Seattle%20Population.png)
+![Graph mapping education levels for seattle population](https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Education%20Levels%20of%20Seattle%20Population.png)
 
 Figure 3:
 
-![Graph mapping top employment sectors in 2020]
-(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20per%20Major%20Sector%20in%202020.png)
+![Graph mapping top employment sectors in 2020](https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20per%20Major%20Sector%20in%202020.png)
 
 Figure 4:
 
-![Graph mapping top employment sectors in 2022]
-(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20per%20Major%20Sector%20in%202022.png)
+![Graph mapping top employment sectors in 2022](https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20per%20Major%20Sector%20in%202022.png)
 
 
 ## Data Analysis
