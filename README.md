@@ -30,11 +30,11 @@ Graph mapping the correlation between the rent cost ratio and household income.
 
 Graph mapping the time series of seattle home values featuring nominal and real value.
 
-![Graph mapping historic rental vacancy versus the U.S. national average.](/blob/main/Fig1-vacant.png)
+![Graph mapping historic rental vacancy versus the U.S. national average.](/assets/images/Fig1-vacant.png)
 
 ![Graph comparing residential vacancy versus a commercial vacancy snapshot.](/blob/main/Fig2-vacant.png)
 
-![Graph mapping the total number of residential and commercial parcels as well as the estimated vacant parcels for each](/blob/main/Fig3-vacant.png)
+![Graph mapping the total number of residential and commercial parcels as well as the estimated vacant parcels for each](https://github.com/ScottMcLean98/Project1/blob/main/Fig3-vacant.png)
 
 Data Analysis
 Zillow historical home values in Seattle, Washington have been on a continuous rise since 2012, more than doubling in value in that time. However, real value in housing prices have not yet reached their 2007 highs, with Seattle having a drop of real home values from $621,903 to a minimum of $263,317.82 between 2007 and 2009. Looking at the breakdown of housing and rental in Seattle, the housing to income ratio (housing value/median annual income), is 7.09, well above the national average of ~5 implying that homeowners are spending more of their income on housing then they would be living in another location. However, there is very little correlation between median income and the percentage of income going towards housing, suggesting that in all income brackets, people are spending similar percentages of their income on housing. Although, for renters, their rent-to-income ratio is 27% exceeding the national average by over 50% (17%) and their cost of living in Seattle for housing is over 102.2% of the national average. There is a strong correlation between median household income and rent-to-income ratio. So, when looking at lower income residents, their percentage spent on rent is nearly 15% higher than high income people, suggesting it is hard to find low cost rentals in the Seattle area.  
