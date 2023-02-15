@@ -16,7 +16,22 @@ To obtain financial data, we used ticker symbols from a list of Publicly Traded 
 
 Using these ticker symbols we were able to pull financial data from Financial Modeling Prep: https://financialmodelingprep.com/developer/docs/
 
-We were not able to gather as much corporate financial data as we had hoped. We were able to compare Total Debt, Total Assets and Net Income for 2022.
+We were not able to gather as much corporate financial data as we had hoped. We were able to examine Total Debt, Total Assets and Net Income for 2022. 
+The limited amount of data was able to show us that total assets are slightly above total debt. Net income is mostly positive, however Amazon was an outlier with debt, assets and income being vastly different than other companies in the state of Washington with headquarters in Seattle.
+
+## Graphs
+###### Financials for popular publicly traded companies headquartered in Washington State:
+Total Current Assets for 2022
+
+![Graph mapping total current assets for 2022.](https://github.com/ScottMcLean98/Project1/blob/main/TOTALcurrentassets2022.png)
+
+Total Debt for 2022 by company
+
+![Graph mapping Total Debt for 2022.](https://github.com/ScottMcLean98/Project1/blob/main/TotalDebt2022.png)
+
+Total Net Income for 2022 4QTR reporting
+
+![Graph mapping Net Income for 2022.](https://github.com/ScottMcLean98/Project1/blob/main/NetIncome4QTR2022.png)
 
 ###### Description of data exploration:
 
