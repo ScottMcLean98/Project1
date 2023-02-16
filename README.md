@@ -1,6 +1,6 @@
 # Demographic and Economic Analysis of Seattle, Washington and Trends in Commercial Real Estate
 
-With many large corporations left with vacant office space post-covid, many are considering requiring that employees return to the workplace. Meanwhile, others are working to create more remote or hybrid options.
+With many large corporations left with vacant office space post-covid, many are considering requiring employees to return to the workplace. Meanwhile, others are working to create more remote or hybrid options.
 
 ###### How has the COVID-19 pandemic changed the workplace and how can we capitalize on this opportunity to build a workplace of the future?
 
