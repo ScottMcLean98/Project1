@@ -33,6 +33,28 @@ Total Net Income for 2022 4QTR reporting
 
 ![Graph mapping Net Income for 2022.](https://github.com/ScottMcLean98/Project1/blob/main/NetIncome4QTR2022.png)
 
+Education Levels of Seattle Population 2021
+
+![Graph mapping Education Levels of Seattle Population 2021
+(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Education%20Levels%20of%20Seattle%20Population.png)
+
+Population in 2020 vs. 2022
+
+![Graph mapping Population in 2020 vs. 2022]
+(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20in%202020%20vs%202022.png)
+
+Population per Major Sector in 2020
+
+![Graph mapping population per major sector in 2020]
+(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20per%20Major%20Sector%20in%202020.png)
+
+Population per Major Sector in 2022
+
+![Graph mapping population per major sector in 2022]
+(https://github.com/ScottMcLean98/Project1/blob/main/Graphs/Population%20per%20Major%20Sector%20in%202022.png)
+
+
+
 ###### Description of data exploration:
 
 Using the Zillow API to iterate through selected regions and append the data to an empty list to create a Zillow dataframe. Added quarterly date values columns for each fiscal quarter to reduce the likelihood of dates not matching up when merging. Employed a similar process for Nasdaq inflation api to get Consumer Pricing Index information and added quarterly date values. Merged dataframes into one dataframe on the quarterly date values. Adjusted the home values using the CPI data to get the final dataframe using the dataframe to create a time series plot of real vs nominal values.
